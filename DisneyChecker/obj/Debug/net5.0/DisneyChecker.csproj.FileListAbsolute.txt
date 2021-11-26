@@ -1,0 +1,16 @@
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\bin\Debug\net5.0\DisneyChecker.exe
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\bin\Debug\net5.0\DisneyChecker.deps.json
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\bin\Debug\net5.0\DisneyChecker.runtimeconfig.json
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\bin\Debug\net5.0\DisneyChecker.runtimeconfig.dev.json
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\bin\Debug\net5.0\DisneyChecker.dll
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\bin\Debug\net5.0\ref\DisneyChecker.dll
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\bin\Debug\net5.0\DisneyChecker.pdb
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\obj\Debug\net5.0\DisneyChecker.csproj.AssemblyReference.cache
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\obj\Debug\net5.0\DisneyChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\obj\Debug\net5.0\DisneyChecker.AssemblyInfoInputs.cache
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\obj\Debug\net5.0\DisneyChecker.AssemblyInfo.cs
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\obj\Debug\net5.0\DisneyChecker.csproj.CoreCompileInputs.cache
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\obj\Debug\net5.0\DisneyChecker.dll
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\obj\Debug\net5.0\ref\DisneyChecker.dll
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\obj\Debug\net5.0\DisneyChecker.pdb
+C:\Users\thomas\Code\DisneyChecker\DisneyChecker\obj\Debug\net5.0\DisneyChecker.genruntimeconfig.cache
